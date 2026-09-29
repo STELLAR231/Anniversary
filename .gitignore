@@ -1,0 +1,6 @@
+# stale generator and scratch files, kept local
+build.py
+_mtest.html
+_preview.html
+__pycache__/
+*.pyc
